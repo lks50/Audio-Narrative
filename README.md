@@ -32,15 +32,15 @@ Please read through all the instructions before you start, so you know where you
 2. In that file, you're going to write a story, one line at a time. **Begin your story like this:** "At first, there was only analog:"
    - How would you continue the sentence after the colon? The first person to propose an answer should write it up.
    - When that person is done, **save and commit.** Use a meaningful commit message, i.e. don't accept the default message, like "update files": instead, say *how* you've updated it, e.g. "add bit about live performances".
-   - If you're editing locally, push your changes.
+<!--   - (If you're editing on your own computer, push your changes. If you're on the GitHub website, the changes are already there and don't need to be pushed.) -->
 3. **Take turns** adding to the file, so that **everyone in the group gets to make at least one commit.**
-   - Each time, start by pulling changes (or refreshing the page, if you're working directly in GitHub).
+   - Each time, start by refreshing the page<!-- (or pulling changes, if you're not working on the GitHub website)-->.
    - Each time, use meaningful commit messages, rather than accept the default message (which doesn't tell us very much!)
-   - Each time, end by pushing your changes... or by filing a _pull request_ to your own repository and merging it (see below).
+<!--   - (If you're editing locally, end each time by pushing your changes... or by filing a _pull request_ to your own repository and merging it.) -->
 
 
 ### III. Share it back
-Working in your own repository, or if you're working with peers but you're patient enough to go one at a time, you can commit straight to the main branch without deleting other contributions. But if you ever wanted to edit at the same time and _merge_, using **pull requests** instead adds an extra step for safety: a review process to ensure you're always adding to the most recent version, even if it's changed since you started your edit.
+Working in your own repository, or if you're working with peers but you're patient enough to go one at a time, you can commit straight to the main branch without deleting other contributions. But if you ever wanted to edit at the same time and _merge_, using **pull requests** adds an extra step for safety: a review process to ensure you're always adding to the most recent version, even if it's changed since you started your edit.
 
 When you're working in a fork, you can also file a pull request back to the original repository. In that case, you can't push directly unless you have admin privileges there – but the repo owner can review what you've sent, and then decide if they want to pull what you're offering. Thus the name! (You're  *requesting* a pull.)
 
@@ -63,5 +63,5 @@ The merge and review process just takes you through a series of prompts and butt
 
 
 <div class="alert alert-info">
-EXT: All done with the main activity? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
+EXT: All done with the main activity and still have time left? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
 </div>
