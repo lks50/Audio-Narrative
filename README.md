@@ -53,14 +53,15 @@ When your group is done with your story (or if you're just out of time), please 
 That's it for sharing "upstream"!
 
 <details><summary>To see what it would look like to pull request within your own project, click here.</summary>
-The merge and review process just takes you through a series of buttons; in the middle, you can write back and forth just as you can on the issue queue:
+<h3>GH Pull requests as / instead of commits</h3>
+The merge and review process just takes you through a series of prompts and buttons; in the middle, you can write back and forth just as you can on the issue queue. Here's how it would look:
 
 <figure><img src="img/github-pull-request-sequence-with-arrows.png" alt="Six panels illustrating the steps in the caption"/>
 <figcaption><ol><li>Top left. Instead of committing directly, you have the option to create a new branch and start a pull request.</li><li>Top right. Confirm the branches and direction of the proposed pull, and write a note to your partners about what you're proposing.</li><li>Middle left. GitHub will attempt to find conflicts.</li><li>Middle right. If there are none, your job is simple! Just decide whether to merge. (If there are, I recommend Atom as a tool to resolve them.)</li><li>Bottom left. The merge becomes a new commit in the destination repository, so you get to write a new commit message. Make it meaningful!</li><li>After the merge, you will be prompted to delete the source branch, since its contents are now integrated.</li></ul>
 </figure>
-
 </details>
 
 
-
+<div class="alert alert-info">
 EXT: All done with the main activity? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
+</div>
