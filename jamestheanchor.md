@@ -1,1 +1,1 @@
-"At first, there was only analog:" 
+"At first, there was only analog: Then came a digital era." 
