@@ -61,7 +61,8 @@ The merge and review process just takes you through a series of prompts and butt
 </figure>
 </details>
 
+<hr />
 
 <div class="alert alert-info">
-EXT: All done with the main activity and still have time left? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
+<strong>EXT:</strong> All done with the main activity and still have time left? Read the file in this repo (folder) called `murray--four-affordances.md`, and follow the prompts inside it.
 </div>
