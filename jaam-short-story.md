@@ -4,4 +4,6 @@ Then it sprouted,
 giving plenty of fruits.
 
 A peach and a pineapple appeared,
-and a hungry foxed watched from a distance.
+and a hungry fox watched from a distance.
+
+He was waiting for his chance. 
