@@ -23,3 +23,4 @@ How well do these *affordances*, i.e. prominent potentialities, line up with the
 File a pull request back to the main repository when you're done.
 
 ## Our thoughts:
+I wrote that almost everything can be done digitally in the modern era. My statement covers each affordance. Oour story is also too short to contain any true opinions or notions about the extent of a digital world. I understand a participatory affordance as being observed via social media and messaging platforms, like email and text. Encyclopedic is obviously evident in digital platforms since browers, like Google, generate millions of answers (articles, blogs, videos, etc.) within fractions of a second. The internet and digital platforms inundate users with information, which can often be overwhleming. 
