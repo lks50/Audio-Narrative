@@ -6,4 +6,5 @@ giving plenty of fruits.
 A peach and a pineapple appeared,
 and a hungry fox watched from a distance.
 
-He was waiting for his chance. 
+He was waiting for his chance.
+Pouncing on the tree take as much, as he'd need.
