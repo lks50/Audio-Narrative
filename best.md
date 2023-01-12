@@ -8,15 +8,15 @@ But it quickly became vital
 
 There's not a day that goes by
 
-without digital photos being sent on the fly
+without digital photos sent on the fly
 
 bits and bytes wizzing through the sky
 
-even my grandma gave instagram a try
+even my grandma gave Instagram a try!
 
-zeros and ones made in a flash
+Zeros and ones made in a flash
 
-I worte this message with the Gitbash
+I wrote this message with the Git Bash
 
 No pull request, feeling quite rash
 
