@@ -4,3 +4,4 @@ Then it sprouted,
 giving plenty of fruits.
 
 A peach and a pineapple appeared,
+and a hungry foxed watched from a distance.
